@@ -1,0 +1,26 @@
+{
+  "name": "nw-playground",
+  "version": "0.1.0",
+  "description": "Quick experiments with NW.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbinary/nw-playground.git"
+  },
+  "keywords": [
+    "nw",
+    "nwjs",
+    "playground",
+    "experiment",
+    "code"
+  ],
+  "author": "Alexandre Bintz <alexandre@bintz.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexbinary/nw-playground/issues"
+  },
+  "homepage": "https://github.com/alexbinary/nw-playground#readme"
+}
