@@ -139,3 +139,9 @@ Convert given element to a playground.
 Receives following parameters :
 - `element` : the original element that has been converted (class `nw-playground-editor`)
 - `container` : the top level wrapper element of the corresponding playground (class `nw-playground`)
+
+
+## License
+
+The MIT License (MIT) - Copyright (c) 2015 Alexandre Bintz <alexandre@bintz.io>  
+See [LICENSE](LICENSE) file for full text.
