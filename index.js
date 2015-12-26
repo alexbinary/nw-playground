@@ -3,8 +3,8 @@
  *
  * index.js - Main file
  *
- * @author Alexandre Bintz <alexandre@bintz.io>
- * 12/2015
+ * The MIT License (MIT)
+ * Copyright (c) 2015 Alexandre Bintz <alexandre@bintz.io>
  */
 
 'use strict';
