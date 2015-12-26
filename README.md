@@ -1,5 +1,11 @@
 # nw-playground
 
+## Install
+
+```
+npm install nw-playground
+```
+
 ## Usage
 
 Quick experiments with NW.js :
