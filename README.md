@@ -125,7 +125,7 @@ init(/* ... */);
 
 ### convertAll([callback])
 
-Convert all `pre` tags to a playground.
+Convert all `<pre>` tags to a playground.
 
 - `callback` : function called once for each element that has been converted.
 Receives following parameters :
