@@ -1,5 +1,8 @@
 # nw-playground
 
+> Quick experiments with NW.js
+
+
 ## Install
 
 ```
@@ -7,8 +10,6 @@ npm install nw-playground
 ```
 
 ## Usage
-
-Quick experiments with NW.js :
 
 ```javascript
 require('nw-playground')(document).convertAll();
