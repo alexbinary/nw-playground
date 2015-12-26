@@ -1,5 +1,7 @@
 # nw-playground
 
+## Usage
+
 Quick experiments with NW.js :
 
 ```javascript
